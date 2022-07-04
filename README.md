@@ -63,11 +63,14 @@
 
 ### 问题
 - 未知问题不能make，晚上回来看看了
+make run的时候出现"error: linking with `rust-lld` failed: exit status: 1"
+![image](https://user-images.githubusercontent.com/86448161/177075240-5703ce09-8688-4592-a165-bba2092670dd.png)
+
 
 ### 预期计划
 
 - 继续学习陈瑜老师的os课
-- 看看实验框架
+- lab0 运行成功
 
 ## Day  2022/7/
 
