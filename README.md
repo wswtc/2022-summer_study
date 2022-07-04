@@ -72,11 +72,10 @@ make run的时候出现"error: linking with `rust-lld` failed: exit status: 1"
 - 继续学习陈瑜老师的os课
 - lab0 运行成功
 
-## Day  2022/7/
+## Day 4 2022/7/4
 
-### 事件1：
-
-
+### 事件1：学习了陈瑜老师OS的第四节课
+时间过得好快。这么快就过去四天了（TXT
 
 ### 问题
 -
